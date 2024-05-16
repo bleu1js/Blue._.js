@@ -5,9 +5,10 @@
   <title>jé.blue</title>
 </head>
 <body>
-  <style>
-    b{
-      background-color: "blue"
+<style>
+    body {
+      background-color: blue;
+      background-topic: middle;
     }
   </style>
   <a href="https://discord.com/invite/hAyveBFb">server discord</a><br>
