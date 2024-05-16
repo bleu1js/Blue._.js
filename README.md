@@ -16,8 +16,7 @@
 <style>
     body {
       background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
-      background-size: cover;
-      background-position: center;
+      
     }
   </style>
  <br> <p>A website is an online platform that provides resources, tools, and information for programmers, such as tutorials, articles, forums, and code repositories, to help them learn and develop their programming skills and exchange knowledge and experiences with the programming community</p><br>
