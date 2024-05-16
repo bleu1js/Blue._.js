@@ -5,7 +5,7 @@
   <title>jé.blue</title>
 </head>
 <body>
-  <a href="https://discord.com/invite/hAyveBFb">server discord</a>
+  <a href="https://discord.com/invite/hAyveBFb">server discord</a><br>
   <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK">youtube chanell</a>
   
   <img src="content://media/external/downloads/17615">
