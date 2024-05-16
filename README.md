@@ -9,18 +9,11 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>jé.blue</title>
    
-  </style>
-  <style>
-    body {
-        margin: 0;
-        padding: 0;
-        border: 10px solid black;
-    }
-</style>
+
 </head>
 <body>
   
-<styl>
+<style>
     body {
       background-color: gray;
       background-topic: middle;
