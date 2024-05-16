@@ -15,7 +15,7 @@
   
 <style>
     body {
-      background-image: url('IMG_٢٠٢٤٠٥١٦_٢٠١٤٥١.jpg');
+      background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
       background-size: cover;
       background-position: center;
     }
