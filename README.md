@@ -1,5 +1,15 @@
 <html>
 <head>
+  <form action="/search" method="get">
+  <input list="searchOptions" type="text" placeholder="ابحث هنا..." name="q">
+  <datalist id="searchOptions">
+    <option value="broadcast bot">
+    <option value="خيار2">
+    <option value="خيار3">
+    <!-- يمكنك إضافة المزيد من الخيارات هنا -->
+  </datalist>
+  <button type="submit">بحث</button>
+</form>
   <a href="https://discord.com/invite/hAyveBFb">•server discord</a><br>
   <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK">•YouTube channel</a><br>
   
