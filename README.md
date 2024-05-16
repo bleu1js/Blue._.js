@@ -14,7 +14,7 @@
 <body>
 <style>
     body {
-      background-color: blue;
+      background-color: gray;
       background-topic: middle;
     }
   </style>
