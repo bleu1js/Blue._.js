@@ -1,7 +1,7 @@
 <html>
 <head>
-  <a href="https://discord.com/invite/hAyveBFb">server discord</a><br>
-  <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK">youtube chanell</a><br>
+  <a href="https://discord.com/invite/hAyveBFb"><h3>•server discord</h3></a><br>
+  <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><h3>•YouTube channel</h3></a><br>
   
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
