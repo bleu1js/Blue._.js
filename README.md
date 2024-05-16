@@ -1,5 +1,6 @@
 <html>
 <head>
+  <img src="تنزيل - ٢٠٢٤-٠٥-١٦T١١١٥٣١.٦٧٠">
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
   <title>jé.blue</title>
