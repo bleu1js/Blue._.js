@@ -1,6 +1,6 @@
 <html>
 <head>
-  <input type="search"placeholder="you texte here"/>
+
   <a href="https://discord.com/invite/hAyveBFb">•server discord</a><br>
   <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK">•YouTube channel</a><br>
   
@@ -15,6 +15,7 @@
   </style>
 </head>
 <body>
+  <input type="sarch" placeholder="here" />
 <style>
     body {
       background-color: gray;
