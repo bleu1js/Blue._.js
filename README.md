@@ -15,7 +15,7 @@
   
 <style>
     body {
-      background-image: url('1695818052071.jpg');
+      background-image: url('IMG_٢٠٢٤٠٥١٦_٢٠١٤٥١.jpg');
       background-size: cover;
     }
   </style>
