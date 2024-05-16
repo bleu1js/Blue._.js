@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  <input type="sarch" placeholder="here" />
+  <input type="sarch" placeholder="🔍 SEARCH" />
 <style>
     body {
       background-color: gray;
