@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  <input type="sarch" placeholder="🔍 SEARCH" id="myInput" title="type a name" onkeyup="myFuncrion()"/>
+  
 <style>
     body {
       background-color: gray;
@@ -26,6 +26,7 @@
   <br>
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•broadcast bot</h3></a>
+  <input type="sarch" placeholder="🔍 SEARCH" id="myInput" title="type a name" onkeyup="myFuncrion()"/>
   <ul>
     <li><a href="#">as</a></li>
     <li><a href="#">ho</a></li>
