@@ -8,9 +8,6 @@
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
   <link rel="icon" href="Gggggggg.icon">
-  
-   
-
 </head>
 <body>
   
