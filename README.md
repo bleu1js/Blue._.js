@@ -6,7 +6,7 @@
   <input type="sarch" placeholder="🔍 SEARCH" id="myInput" disable title="type a name" onkeyup="myFuncrion()"/>
   
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <link rel="icon" href="IMG_٢٠٢٤٠٥١٧_١٣٣٨٥٧.jpg"/>
+  <link rel="icon" href="Gggggggg.icon"/>
   <title>jé.blue</title>
    
 
