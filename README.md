@@ -7,7 +7,7 @@
   
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
-  <link rel="icon" href="Logo2.icon">
+  <link rel="icon" href="image0-1.icon">
   
    
 
