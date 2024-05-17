@@ -7,7 +7,7 @@
   
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
-  <link rel="icon" href="تنزيل - ٢٠٢٤-٠٥-١٧T١٠٤٦٤٢.٢٧١.png">
+  <link rel="icon" href="Gggggggg.icon">
   
    
 
