@@ -32,12 +32,7 @@
    <p>copyright@</p><span>blue._.js</span>
    <a href="#">youtube</a>
   </foter>
-  <style>
-   gogol{
-    background-color: blue;
-    color: white;
-   }
-  </style>
+
 </body>
 
    
