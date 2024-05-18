@@ -20,6 +20,10 @@
     }
  header{
   background-color: blue;
+  width:100%;
+  position: fixed;
+  z-index: 999;
+  
  }
   </style>
  
