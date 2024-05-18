@@ -42,7 +42,7 @@
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
-  div class="icon-container">
+  <div class="icon-container">
         <a href="https://discord.com/invite/hAyveBFb">
             <img src="discord.jpeg" alt="Discord">
         </a>
