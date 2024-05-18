@@ -18,6 +18,13 @@
       background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
       
     }
+ foter{
+  background-color: blue;
+  color: white;
+  padding:2em;
+  display: flex;
+  justify-content: space-between;
+ }
  
   
     
@@ -28,8 +35,8 @@
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
-  <foter class="gogol">
-   <p>copyright@</p><span>blue._.js</span>
+  <foter>
+   gg
    <a href="#">youtube</a>
   </foter>
 
