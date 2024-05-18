@@ -1,3 +1,7 @@
-b{
-  background-color:blue;
+.gogol{
+  background-color: blue;
+  color: black;
+  padding: 2em;
+  display: flex;
+  justify-content: space-between;
 }
