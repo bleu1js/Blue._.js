@@ -19,9 +19,14 @@
       
     }
  
-  logo{
-   width:25px;
-   height:15px;
+  icondis{
+   display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            height: 25px;
+   width: 30px;
+            margin: 0;
+  }
   }
  
   </style>
@@ -33,9 +38,10 @@
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
   
 </body>
-
+<div class="icondis">
 <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
   </a>
    <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:50px;height:30px;">
    </a>
+</div>
 </html>
