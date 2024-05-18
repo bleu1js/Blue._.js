@@ -26,4 +26,11 @@
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
   
 </body>
+<table>
+  <tr>
+    <td>
+      gg
+    </td> style="background-color": blue;
+  </tr>
+</table>
 </html>
