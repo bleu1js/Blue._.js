@@ -1,7 +1,7 @@
 <html>
 <head>
 
- <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg"calss="logo";>
+ <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
   </a>
    <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:50px;height:30px;">
    </a><br>
