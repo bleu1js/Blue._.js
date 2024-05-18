@@ -28,7 +28,16 @@
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
-  
+  <foter class="gogol">
+   <p>copyright@</p><span>blue._.js</span>
+   <a href="#">youtube</a>
+  </foter>
+  <style>
+   gogol{
+    background-color: blue;
+    color: white;
+   }
+  </style>
 </body>
 
    
