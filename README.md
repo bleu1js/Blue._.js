@@ -1,9 +1,8 @@
 <html>
 <head>
 
-  <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:45px; height:30px;">
-   </a>
-  <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:45px;height:30px;">
+  <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
+   </a><p>_</p><a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:50px;height:30px;">
    </a><br>
   <input type="sarch" placeholder="🔍 SEARCH" id="myInput" disable title="type a name" onkeyup="myFuncrion()"/>
   
@@ -26,11 +25,5 @@
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
   
 </body>
-<table>
-  <tr>
-    <td>
-      gg
-    </td> style="background-color": blue;
-  </tr>
-</table>
+
 </html>
