@@ -19,7 +19,7 @@
       
     }
  foter{
-  background-color: blue;
+  background-imagr: url('Gggggggg.icon');
   color: white;
   padding:2em;
   display: flex;
@@ -36,8 +36,10 @@
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
   <foter>
-   gg
-   <a href="#">youtube</a>
+   <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
+  </a>
+   <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:50px;height:30px;">
+   </a>
   </foter>
 
 </body>
