@@ -22,6 +22,9 @@
   display: flex;
   justify-content: space-between;
  }
+  table{
+    background-size: cover;
+  }
  
   
     
@@ -37,6 +40,11 @@
   </a>
    <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:50px;height:30px;">
    </a>
+    <table class="table">
+      <tr>
+        <td>gg</td>
+      </tr>
+    </table>
   </foter>
 
 </body>
