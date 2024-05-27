@@ -6,13 +6,13 @@
   
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
-  <link rel="icon" href="Gggggggg.icon"/>
+  <link rel="icon" href="picsart_24-06_2P5-10-56-54-582"/>
 </head>
 <body>
   
 <style>
     body {
-      background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
+      background-image: url('picsart_24-06_2P5-10-56-54-582.jpg');
       
     }
  foter{
