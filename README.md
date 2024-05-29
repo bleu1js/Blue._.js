@@ -16,7 +16,7 @@
       
     }
  foter{
-  background-image: url('Gggggggg.icon');
+  background-image: url('Ggggggg.icon');
   color: white;
   padding:2em;
   display: flex;
