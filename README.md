@@ -12,11 +12,11 @@
   
 <style>
     body {
-      background-image: url('Picsart_24-06_2P5-10-56-54-582.jpg');
+      background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
       
     }
  foter{
-  background-imagr: url('Gggggggg.icon');
+  background-image: url('Gggggggg.icon');
   color: white;
   padding:2em;
   display: flex;
