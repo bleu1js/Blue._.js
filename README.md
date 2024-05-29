@@ -12,7 +12,7 @@
   
 <style>
     body {
-      background-image: url('picsart_24-06_2P5-10-56-54-582.jpg');
+      background-image: url('Picsart_24-06_2P5-10-56-54-582.jpg');
       
     }
  foter{
