@@ -32,12 +32,13 @@
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
+<a href="https://bleu1js.github.io/encryption-bot/><h3>•</h3>
   <foter>
    <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
   </a>
    <a href="https://youtube.com/@ayoub_kobra_ff?si=nQyarPNhHvr3rWIK"><img src="imagesYoutube.jpeg"  style="width:50px;height:30px;">
    </a>
-<a href="https://bleu1js.github.io/encryption-bot/><h3>•</h3>
+
     
   </foter>
 
