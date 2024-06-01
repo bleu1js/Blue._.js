@@ -1,7 +1,8 @@
 <html>
 <head>
 <header>
-  <a download href="app-release.apk"> download blue-js style=</a>
+  <a download href="app-release.apk"><p download blue-js app height="555"></p> 
+  </a>
 </header>
   <input type="sarch" placeholder="🔍 SEARCH" id="myInput" disable title="type a name" onkeyup="myFuncrion()"/>
   
@@ -45,6 +46,6 @@
 
 </body>
 
-   
+  
 
 </html>
