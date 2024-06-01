@@ -1,14 +1,15 @@
 <html>
 <head>
 <header>
-  <a download href="app-release.apk"><h1>download blue-js app</h1>  
-  </a>
+ 
+  
 </header>
   <input type="sarch" placeholder="🔍 SEARCH" id="myInput" disable title="type a name" onkeyup="myFuncrion()"/>
   
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
   <link rel="icon" href="picsart_24-06_2P5-10-56-54-582"/>
+ <a download href="app-release.apk"><p style="texte-align:Center">download blue-js app</p>  </a>
 </head>
 <body>
   
