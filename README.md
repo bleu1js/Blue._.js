@@ -8,7 +8,7 @@
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
   <link rel="icon" href="picsart_24-06_2P5-10-56-54-582"/>
- <a download href="app-release.apk"><h3 style="texte-align:Center"><h3>download blue-js app <img src='4618508.png' height="45" width="45"></h3>  </a>
+ <a download href="app-release.apk"><h3 style="texte-align:Center"><h3>download blue-js app</h3>   </a>
 </head>
 <body>
   
