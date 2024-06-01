@@ -1,7 +1,7 @@
 <html>
 <head>
 <header>
-  <a download href="app-release.apk"> download blue-js app</a>
+  <a download href="app-release.apk"> download blue-js style=</a>
 </header>
   <input type="sarch" placeholder="🔍 SEARCH" id="myInput" disable title="type a name" onkeyup="myFuncrion()"/>
   
