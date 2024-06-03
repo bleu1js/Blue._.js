@@ -9,7 +9,7 @@
   <title>jé.blue</title>
   <link rel="icon" href="picsart_24-06_2P5-10-56-54-582"/>
 <a download href="app-release.apk"><img src="download-arrow.png
-" style="text-align= center"height="45" width="45"></a>
+" height="55" width="45"></a>
 </head>
 <body>
   
