@@ -8,8 +8,7 @@
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>jé.blue</title>
   <link rel="icon" href="picsart_24-06_2P5-10-56-54-582"/>
-<a download href="app-release.apk"><img src="download-arrow.png
-" class="centered-image" height="55" width="45"></a>
+<a download href="app-release.apk"><P STYLE="tEXT-ALIGHN: CENTER"> GG</P></a>
 </head>
 <body>
   
