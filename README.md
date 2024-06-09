@@ -30,8 +30,9 @@
     
   </style>
  
- <br> <p>A website is an online platform that provides resources, tools, and information for programmers, such as tutorials, articles, forums, and code repositories, to help them learn and develop their programming skills and exchange knowledge and experiences with the programming community</p><br>
-  <br>
+ <br> <p>A website is an online platform that provides resources, tools, and information for programmers, such as tutorials, articles, forums, and code repositories, to help them learn and develop their programming skills and exchange knowledge and experiences with the programming community
+  <br> if you are  bigginer must you <a href="gg">click here</a> </p><br>
+
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
   <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
