@@ -34,9 +34,9 @@
 <li><a href="https://discord.com/oauth2/authorize?client_id=1249442604861493391&permissions=8&integration_type=0&scope=bot+applications.commands">click here </a> to add my bot to your discord server because when you need to someproject you will got from him (my bot)</li> </ul>  </p>
 
   <h2>Discord bots</h2>
-  <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><h3>•Broadcast bot</h3></a>
-  <a href="https://bleu1js.github.io/Ticket-bot"><h3>•Tickets bot</h3></a>
- <a href="https://bleu1js.github.io/encryption-bot/"><h3>•encryption bot</h3></a>
+  <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><UL> <LI><h3>Broadcast bot</h3></LI></UL></a>
+  <a href="https://bleu1js.github.io/Ticket-bot"><h3><UL><LI>Tickets bot</h3></LI></UL></a>
+ <a href="https://bleu1js.github.io/encryption-bot/"><UL><LI><h3>encryption bot</h3></LI></UL></a>
   <foter>
    <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
   </a>
