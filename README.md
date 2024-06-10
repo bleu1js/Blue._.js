@@ -35,7 +35,7 @@
 
   <h2>Discord bots</h2>
   <a href="https://bleu1js.github.io/Broadcast-bot.-js-/"><UL> <LI><h3>Broadcast bot</h3></LI></UL></a>
-  <a href="https://bleu1js.github.io/Ticket-bot"><h3><UL><LI>Tickets bot</h3></LI></UL></a>
+  <a href="https://bleu1js.github.io/Ticket-bot"><UL><LI><h3>Tickets bot</h3></LI></UL></a>
  <a href="https://bleu1js.github.io/encryption-bot/"><UL><LI><h3>encryption bot</h3></LI></UL></a>
   <foter>
    <a href="https://discord.com/invite/hAyveBFb"><img src="discord.jpeg" style="width:50px; height:30px;">
